@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bapho\\Repos\\Net-HelloWorldAPI\\my-minimal-api\\my-minimal-api.csproj": {}
+    "C:\\Users\\bapho\\Repos\\Net-HelloWorldAPI\\my-minimal-api\\my-minimal-api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bapho\\Repos\\Net-HelloWorldAPI\\my-minimal-api\\my-minimal-api.csproj": {
+    "C:\\Users\\bapho\\Repos\\Net-HelloWorldAPI\\my-minimal-api\\my-minimal-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bapho\\Repos\\Net-HelloWorldAPI\\my-minimal-api\\my-minimal-api.csproj",
+        "projectUniqueName": "C:\\Users\\bapho\\Repos\\Net-HelloWorldAPI\\my-minimal-api\\my-minimal-api.csproj",
         "projectName": "my-minimal-api",
-        "projectPath": "c:\\Users\\bapho\\Repos\\Net-HelloWorldAPI\\my-minimal-api\\my-minimal-api.csproj",
+        "projectPath": "C:\\Users\\bapho\\Repos\\Net-HelloWorldAPI\\my-minimal-api\\my-minimal-api.csproj",
         "packagesPath": "C:\\Users\\bapho\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bapho\\Repos\\Net-HelloWorldAPI\\my-minimal-api\\obj\\",
+        "outputPath": "C:\\Users\\bapho\\Repos\\Net-HelloWorldAPI\\my-minimal-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bapho\\AppData\\Roaming\\NuGet\\NuGet.Config"

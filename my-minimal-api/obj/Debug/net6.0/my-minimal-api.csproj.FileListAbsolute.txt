@@ -21,3 +21,4 @@ c:\Users\bapho\Repos\Net-HelloWorldAPI\my-minimal-api\obj\Debug\net6.0\refint\my
 c:\Users\bapho\Repos\Net-HelloWorldAPI\my-minimal-api\obj\Debug\net6.0\my-minimal-api.pdb
 c:\Users\bapho\Repos\Net-HelloWorldAPI\my-minimal-api\obj\Debug\net6.0\my-minimal-api.genruntimeconfig.cache
 c:\Users\bapho\Repos\Net-HelloWorldAPI\my-minimal-api\obj\Debug\net6.0\ref\my-minimal-api.dll
+C:\Users\bapho\Repos\Net-HelloWorldAPI\my-minimal-api\obj\Debug\net6.0\my-minimal-api.sourcelink.json
